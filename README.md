@@ -1,1 +1,1 @@
-# M-Todo-list
+# A responsive Todo list using Mithril Js
